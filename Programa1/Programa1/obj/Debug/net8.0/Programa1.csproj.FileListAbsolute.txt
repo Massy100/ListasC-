@@ -1,0 +1,14 @@
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\bin\Debug\net8.0\Programa1.exe
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\bin\Debug\net8.0\Programa1.deps.json
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\bin\Debug\net8.0\Programa1.runtimeconfig.json
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\bin\Debug\net8.0\Programa1.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\bin\Debug\net8.0\Programa1.pdb
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.AssemblyInfoInputs.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.AssemblyInfo.cs
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\refint\Programa1.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.pdb
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\Programa1.genruntimeconfig.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\Programa1\programa1\obj\Debug\net8.0\ref\Programa1.dll
